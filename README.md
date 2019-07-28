@@ -11,11 +11,12 @@ omitting even functional decomposition let alone unit tests.
 
 Explanations of the code are available at:
 
- * exolete.com/lbm for the matlab scripts `lbm.m`, `lbmval.m` and `lbm3d.m`
- * exolete.com/parallel_lbm for `lbm_mpi.cpp`, a vintage C++ with MPI approach
-   to distributed-memory parallelisation of lattice Boltzmann. Although the
-   style of the code is slightly outdated, the *method* is still clearly
-   presented. Read it on this 
+ * [exolete.com/lbm](https://exolete.com/lbm) for the matlab scripts `lbm.m`,
+   `lbmval.m` and `lbm3d.m`
+ * [exolete.com/parallel_lbm](https://exolete.com/parallel_lbm) for
+   `lbm_mpi.cpp`, a vintage C++ with MPI approach to distributed-memory
+   parallelisation of lattice Boltzmann. Although the style of the code is
+   slightly outdated, the *method* is still clearly presented. Read it on this
    [single-sheet of paper](http://exolete.com/images/lbm_mpi.pdf)
 
 This specific implementation of the numerical method itself is described in a
