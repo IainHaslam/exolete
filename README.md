@@ -3,7 +3,7 @@
 A tiny repository to share lattice Boltzmann code from exolete.com
 
 This code has been shared via web pages since just before Linus started writing
-git. Since people continue to find it useful, I'm updating the method of
+git. As people continue to find it useful, I'm updating the method of
 sharing so that it is slightly easier to find, pickup and play with.
 
 This code is concise - they are simple numerical simulations, completely
@@ -19,7 +19,7 @@ Explanations of the code are available at:
    slightly outdated, the *method* is still clearly presented. Read it on this
    [single-sheet of paper](http://exolete.com/images/lbm_mpi.pdf)
 
-This specific implementation of the numerical method itself is described in a
+This specific implementation of the numerical method is described in a
 fairly leisurely, but necessarily numerical, fashion at 
 [iainhaslam.com](https://iainhaslam.com/monplace/lbm-theory)
 
